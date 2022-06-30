@@ -31,7 +31,7 @@
     font: 400 1.5rem/1.5 'Poppins', sans-serif;
 }
 
-.font-2-l
+.font-2-l,
 .font-2-l-b {
     font: 400 1.5rem/1.5 'Roboto', sans-serif;
 }
@@ -64,7 +64,7 @@
     }
 }
 
-@media (max-with: 800px) {
+@media (max-width: 800px) {
     .font-1-xxl {
         font-size: 2rem;
     }
