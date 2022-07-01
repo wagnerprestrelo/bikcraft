@@ -48,7 +48,7 @@
 }
 
 .seguros-item li::before {
-    content: "";
+    content: '';
     display: inline-block;
     width: 13px;
     height: 9px;
